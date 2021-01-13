@@ -1,0 +1,3 @@
+vali;321
+vasi;abc
+petru;123
